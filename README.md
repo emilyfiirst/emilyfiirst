@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Emily Fiirst!
+- 👀 I’m interested in horror movies
+- 🌱 I’m currently learning web development front end and back end
+- 📫 You can reach me on my Twitter
