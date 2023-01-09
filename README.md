@@ -1,6 +1,6 @@
 ### Hi 👋
-- 👩‍🎓 I'm studenty of Systems Analysis and Development
-- 📚 I’m currently learning Js and JAVA
+- 👩‍🎓 I’m studenty of Systems Analysis and Development
+- 📚 I’m currently learning Web Development and Java
 - 📞 You can reach on the links below
 
 ### 
