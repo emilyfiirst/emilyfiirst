@@ -1,6 +1,6 @@
 ### Hi 👋
-- 👩‍🎓 I’m studenty of Systems Analysis and Development
-- 📚 I’m currently learning more about Web Development and Python
+- 👩‍🎓 I am a Software Analysis and Development Technician
+- 📚 I’m currently learning more about Web Development
 - 📞 You can reach on the links below
 
 ### 
