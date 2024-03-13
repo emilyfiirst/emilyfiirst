@@ -11,6 +11,6 @@
 
 <!-- ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=emilyfiirst) -->
 <a href="https://github.com/emilyfiirst/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-lohhans.vercel.app/api/top-langs/?username=emilyfiirst&layout=compact&hide=Tex,VHDL,Jupyter%20Notebookk" height="170" />
+  <img align="center" src="https://github-readme-stats-lohhans.vercel.app/api/top-langs/?username=emilyfiirst&layout=compact&hide=Tex,VHDL,Jupyter%20Notebookk&theme=dark" height="170" />
 </a>
 
