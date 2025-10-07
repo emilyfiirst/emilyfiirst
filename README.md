@@ -1,11 +1,11 @@
-### Hi 👋
-- 👩‍🎓 I am a Software Analysis and Development Technician
-- 📚 I’m currently learning more about Web Development
-- 📞 You can reach on the links below
+### Hi 🖖
+- 🧑🏻‍💻 I'm a Full Stack Developer
+- 👓 I'm currently deepening my knowledge in the technologies I use most (Java, JavaScript, and Docker)
+- 💼 You can learn more about me through the links below
 
 ### 
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/emilianyfiirst/)  [<img src = "https://img.shields.io/badge/spotify-%1ED761.svg?&style=for-the-badge&logo=spotify&logoColor=white">](https://open.spotify.com/user/12148661749)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/emilyfiirst/)  [<img src = "https://img.shields.io/badge/spotify-%1ED761.svg?&style=for-the-badge&logo=spotify&logoColor=white">](https://open.spotify.com/user/12148661749)
 
 ###
 
